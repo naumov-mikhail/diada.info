@@ -1,0 +1,4 @@
+ffmpeg -i evgeniy-tyumen-2026.mp4 \
+-vf "crop=min(iw\,ih):min(iw\,ih)" \
+-c:a copy \
+square.mp4

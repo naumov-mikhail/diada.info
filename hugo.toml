@@ -1,0 +1,145 @@
+baseURL = "http://localhost:1313/"
+title = "Блог"
+theme = "beautifulhugo"
+[Params]
+  subtitle = "Прохватил. Преодолел. Перезагрузился."
+  mainSections = ["post", "posts"]
+  since = "2026"
+#  logo = "/img/avatar-icon.png"
+  favicon = "/img/favicon.ico"
+  dateFormat = "January 2, 2006"
+  colorScheme = "auto"
+  selfHosted = "true"
+  readingTime = "true"
+  socialShare = "true"
+  showRelatedPosts = "true"
+  rss = "true"
+  goToTop = "true"
+  navShort = "true"
+  showSource = "true"
+  enableGitInfo = "false"
+  disableFigureOverride = "false"
+  headerImgStyle = "big"
+  mainSection = "[posts]"
+
+[[module.imports]]
+   path = "github.com/halogenica/beautifulhugo"
+
+[pagination]
+  pagerSize = 4
+
+[Services]
+  [Services.Disqus]
+    # Shortname = "XXX"
+  [Services.googleAnalytics]
+    # id = "XXX"
+
+[taxonomies]
+  category = "categories"
+  tag = "tags"
+
+[[Params.bigimg]]
+  src = "/images/wide_view1.jpg"
+  desc = "Где-то в Таджикистане"
+
+[[Params.bigimg]]
+  src = "/images/wide_view2.jpg"
+  desc = "Где-то в Кыргызстане не далеко от Ала Бел"
+
+
+[[Params.bigimg]]
+  src = "/images/wide_view3.jpg"
+  desc = "Где-то в Кыргызстане на перевале Туу-Ашуу"
+
+[[Params.bigimg]]
+  src = "/images/wide_view4.jpg"
+  desc = "Где-то в Кыргызстане недалеко от Токтогула"
+
+[[Params.bigimg]]
+  src = "/images/wide_view5.jpg"
+  desc = "Где-то в Кыргызстане.. "
+
+[[Params.bigimg]]
+  src = "/images/wide_view6.jpg"
+  desc = "Где-то в Узбекистане недалеко от перевала Урта-Кумбель"
+
+[[Params.bigimg]]
+  src = "/images/wide_view7.jpg"
+  desc = "Где-то в Таджикистане за перевалом Шахристон"
+
+[[Params.bigimg]]
+  src = "/images/wide_view8.jpg"
+  desc = "Где-то в Кыргызстане недалеко от Токтогула"
+
+[[Params.bigimg]]
+  src = "/images/wide_view9.jpg"
+  desc = "Где-то в Кыргызстане недалеко от Токтогула"
+
+[[Params.bigimg]]
+  src = "/images/wide_view10.jpg"
+  desc = "Где-то в Таджикистане на перевале Шахристон"
+
+[[Params.bigimg]]
+  src = "/images/wide_view11.jpg"
+  desc = "Где-то на Алтае в Курасйской степи недалеко от Монголии"
+
+[[Params.bigimg]]
+  src = "/images/wide_view12.jpg"
+  desc = "Где-то на Алтае в Курасйской степи недалеко от Монголии"
+
+[[Params.bigimg]]
+  src = "/images/wide_view13.jpg"
+  desc = "Где-то в Новосибирской области"
+
+
+
+
+#[Params.search]
+#    provider = "fuse"
+
+[Params.author]
+  name = "Mikhail Naumov"
+  website = "diada.info"
+  email = "mn@diada.info"
+  telegram = "diada_info"
+#  github = "username"
+
+
+[markup.highlight]
+  noClasses = false
+
+[markup.goldmark.parser.attribute]
+  block = true
+
+[markup.goldmark.renderer]
+  unsafe = true
+
+[[module.imports]]
+  path = "github.com/halogenica/beautifulhugo"
+
+[[params.socialIcons]]
+name = "Rss"
+url = "/index.xml"
+
+[[menu.main]]
+    identifier = "bikes"
+    name = "Байк"
+    weight = 1
+
+[[menu.main]]
+    name = "Yamaha XVS 950 Star Bolt"
+    parent = "bikes"
+    url = "page/bolt/"
+    weight = 2
+
+[[menu.main]]
+    name = "Обо мне"
+    url = "page/about/"
+    weight = 1
+
+[[menu.main]]
+    name = "Попутчики"
+    url = "page/companions/"
+    weight = 1
+
+

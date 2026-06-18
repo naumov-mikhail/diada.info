@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Dushanbe on Блог</title>
+		<link>http://localhost:1313/tags/dushanbe/</link>
+		<description>Recent content in Dushanbe on Блог</description>
+		<generator>Hugo</generator>
+		<language>en</language>
+		
+			<managingEditor>mn@diada.info (Mikhail Naumov)</managingEditor>
+		
+		
+			<webMaster>mn@diada.info (Mikhail Naumov)</webMaster>
+		
+		
+		
+			<lastBuildDate>Mon, 11 May 2026 00:00:00 +0000</lastBuildDate>
+		
+			<atom:link href="http://localhost:1313/tags/dushanbe/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Прострел Ташкент - Душанбе в два куризера</title>
+				<link>http://localhost:1313/posts/2026-05-21-tashkent-dushanbe/</link>
+				<pubDate>Mon, 11 May 2026 00:00:00 +0000</pubDate><author>mn@diada.info (Mikhail Naumov)</author>
+				<guid>http://localhost:1313/posts/2026-05-21-tashkent-dushanbe/</guid>
+				<description>&lt;h2 id=&#34;маршрут&#34;&gt;Маршрут&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Расстояние: примерно 1000 км&lt;/li&gt;&#xA;&lt;li&gt;Длительность в пути: 4 дня&lt;/li&gt;&#xA;&lt;li&gt;Ночевок в палатке: 1 ночь&lt;/li&gt;&#xA;&lt;li&gt;Погодные условия:&#xA;&lt;ul&gt;&#xA;&lt;li&gt;по трассе: от +5 до +28&lt;/li&gt;&#xA;&lt;li&gt;на перевалах: облачно, мелкий дождь&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;script defer src=&#34;http://localhost:1313/js/mermaid.js&#34;&gt;&lt;/script&gt;&#xA;&lt;script defer src=&#34;http://localhost:1313/js/mermaid-render.js&#34;&gt;&lt;/script&gt;&#xA;&lt;div class=&#34;mermaid-container&#34; style=&#34;text-align:center&#34;&gt;&lt;div class=&#34;theme-light&#34;&gt;&lt;/div&gt;&#xA;  &lt;div class=&#34;theme-dark&#34;&gt;&lt;/div&gt;&lt;/div&gt;&#xA;&lt;pre class=&#34;mermaid-src&#34; style=&#34;display:none&#34;&gt;&#xA;&#xA;flowchart LR&#xA;  A[Ташкент] --&gt; B&gt;Худжанд] --&gt; C&gt;Кайракум] --&gt; D&gt;Айни] --&gt; E&gt;Заравшан] --&gt; F&gt;Варзоб] --&gt; G&gt;Душанбе]&#xA;  G --обратно тем же маршрутом--&gt; A&#xA;&#xA;&lt;/pre&gt;&#xA;&#xA;&lt;h2 id=&#34;фото&#34;&gt;Фото&lt;/h2&gt;&#xA;&lt;details class=&#34;details-shortcode&#34;&gt;&lt;summary&gt;Посмотреть фото с маршрута..&lt;/summary&gt;&#xA;&lt;p&gt;&#xA;&lt;link rel=&#34;stylesheet&#34; href=&#34;http://localhost:1313/css/hugo-easy-gallery.css&#34; /&gt;&#xA;&lt;div class=&#34;gallery caption-position-bottom caption-effect-fade hover-effect-zoom hover-transition&#34; itemscope itemtype=&#34;http://schema.org/ImageGallery&#34;&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&lt;div class=&#34;box&#34;&gt;&#xA;&#x9;&#x9;&#x9;&#x9;  &lt;figure itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;&#xA;&#x9;&#x9;&#x9;&#x9;    &lt;div class=&#34;img&#34; style=&#34;background-image: url(&#39;/photos/2026-05-21-Tashkent-Dushanbe/01%20%d0%a1%d1%82%d0%b0%d1%80%d1%82%d1%83%d0%b5%d0%bc%20%d0%b8%d0%b7%20%d0%a2%d0%be%d1%88%d0%ba%d0%b5%d0%bd%d1%82%d0%b0.jpg&#39;);&#34; &gt;&#xA;&#x9;&#x9;&#x9;&#x9;      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;http://localhost:1313/photos/2026-05-21-Tashkent-Dushanbe/01%20%d0%a1%d1%82%d0%b0%d1%80%d1%82%d1%83%d0%b5%d0%bc%20%d0%b8%d0%b7%20%d0%a2%d0%be%d1%88%d0%ba%d0%b5%d0%bd%d1%82%d0%b0.jpg&#34; alt=&#34;01 стартуем из тошкента&#34; /&gt;&#xA;&#x9;&#x9;&#x9;&#x9;    &lt;/div&gt;&#xA;&#x9;&#x9;&#x9;      &lt;figcaption&gt;&#xA;&#x9;&#x9;          &lt;p&gt;01 стартуем из тошкента&lt;/p&gt;</description>
+			</item>
+	</channel>
+</rss>
