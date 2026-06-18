@@ -6,9 +6,6 @@ theme = "beautifulhugo"
 [caches]
   [caches.images]
     dir = ':cacheDir/images'
-  [caches.images]
-    dir = ':cacheDir/images'
-
 
 [Params]
   subtitle = "Прохватил. Преодолел. Перезагрузился."
