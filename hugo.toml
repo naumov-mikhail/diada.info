@@ -148,4 +148,9 @@ url = "/index.xml"
     url = "page/companions/"
     weight = 1
 
+[[menu.main]]
+    name = "Прохваты"
+    url = "/posts/"
+    weight = 1
+
 
