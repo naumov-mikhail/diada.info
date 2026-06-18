@@ -24,7 +24,7 @@ toc: true
       object-fit: cover;
       border-radius: 30px;
     ">
-    <source src="/videos/square.mp4" type="video/mp4">
+    <source src="/videos/evgeniy-tyumen-2026.mp4" type="video/mp4">
 </video>
 </div>
 {{< /columns >}}
