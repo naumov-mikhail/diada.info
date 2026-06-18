@@ -1,0 +1,6 @@
+{{ $src := .Get "src" }}
+<div style="text-align: center;">
+<video controls style="width: 400px; aspect-ratio: 1; object-fit: cover; border-radius: 30px;">
+  <source src="{{ relURL $src }}" type="video/mp4">
+</video>
+</div>
