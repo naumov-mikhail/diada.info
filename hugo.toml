@@ -1,10 +1,14 @@
-baseURL = "http://localhost:1313/"
+#baseURL = "http://localhost:1313/"
+baseURL = "https://naumov-mikhail.github.io/diada.info/"
 title = "Блог"
 theme = "beautifulhugo"
 
 [caches]
   [caches.images]
     dir = ':cacheDir/images'
+  [caches.images]
+    dir = ':cacheDir/images'
+
 
 [Params]
   subtitle = "Прохватил. Преодолел. Перезагрузился."
