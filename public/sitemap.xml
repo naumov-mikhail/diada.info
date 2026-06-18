@@ -2,48 +2,48 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>http://localhost:1313/diada.info/categories/</loc>
     <lastmod>2026-05-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/dushanbe/</loc>
+    <loc>http://localhost:1313/diada.info/tags/dushanbe/</loc>
     <lastmod>2026-05-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/</loc>
+    <loc>http://localhost:1313/diada.info/posts/</loc>
     <lastmod>2026-05-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>http://localhost:1313/diada.info/tags/</loc>
     <lastmod>2026-05-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/tajikistan/</loc>
+    <loc>http://localhost:1313/diada.info/tags/tajikistan/</loc>
     <lastmod>2026-05-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/vdvoem/</loc>
+    <loc>http://localhost:1313/diada.info/categories/vdvoem/</loc>
     <lastmod>2026-05-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>http://localhost:1313/diada.info/</loc>
     <lastmod>2026-05-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/2026-05-21-tashkent-dushanbe/</loc>
+    <loc>http://localhost:1313/diada.info/posts/2026-05-21-tashkent-dushanbe/</loc>
     <lastmod>2026-05-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/altay/</loc>
+    <loc>http://localhost:1313/diada.info/tags/altay/</loc>
     <lastmod>2022-09-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/solo/</loc>
+    <loc>http://localhost:1313/diada.info/categories/solo/</loc>
     <lastmod>2022-09-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/tyumen/</loc>
+    <loc>http://localhost:1313/diada.info/tags/tyumen/</loc>
     <lastmod>2022-09-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/2022-09-10-tyumen-altay/</loc>
+    <loc>http://localhost:1313/diada.info/posts/2022-09-10-tyumen-altay/</loc>
     <lastmod>2022-09-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/page/about/</loc>
+    <loc>http://localhost:1313/diada.info/page/about/</loc>
   </url><url>
-    <loc>http://localhost:1313/page/</loc>
+    <loc>http://localhost:1313/diada.info/page/</loc>
   </url><url>
-    <loc>http://localhost:1313/page/bolt/</loc>
+    <loc>http://localhost:1313/diada.info/page/bolt/</loc>
   </url><url>
-    <loc>http://localhost:1313/page/companions/</loc>
+    <loc>http://localhost:1313/diada.info/page/companions/</loc>
   </url>
 </urlset>
