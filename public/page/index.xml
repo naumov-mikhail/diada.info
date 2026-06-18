@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Pages on Блог</title>
-		<link>http://localhost:1313/diada.info/page/</link>
+		<link>http://localhost:1313/page/</link>
 		<description>Recent content in Pages on Блог</description>
 		<generator>Hugo</generator>
 		<language>en</language>
@@ -14,26 +14,26 @@
 		
 		
 		
-			<atom:link href="http://localhost:1313/diada.info/page/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="http://localhost:1313/page/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>About</title>
-				<link>http://localhost:1313/diada.info/page/about/</link>
+				<link>http://localhost:1313/page/about/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>mn@diada.info (Mikhail Naumov)</author>
-				<guid>http://localhost:1313/diada.info/page/about/</guid>
+				<guid>http://localhost:1313/page/about/</guid>
 				<description>&lt;p&gt;Я обычный человек - хожу в офис, воспитываю двух детей, обнимаю любимую жену. Но иногда сажусь в седло, завожу мотор и выкатываюсь на встречу приключениям с одним вещевым мешком и хорошим плей-листом в телефоне. У меня своя философия: чем меньше вещей в дороге, тем она больше запомнится и больше эмоций подарит. Этот блог - моя попытка поделиться опытом и заразить духом дорожного бродяги всех неравнодушных и сопричастных.&lt;/p&gt;&#xA;&lt;p&gt;Меня до недавнего времени не было ни в каких социальных сетях, а все свои поездки я описывал только для узкого круга друзей в закрытых telegram-каналах. Но отныне я хочу транслировать этот дорожный блог для всех желающих и надеюсь, что смогу передать этот дорожный дух тебе, читатель.  Если изложенные тут мысли подтолкнуть тебя к своей первой дальней дороге на мотоцикле или в сторону авто-школы - напиши мне, такие отклики будут мотивировать меня писать больше.&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>Yamaha XVS 950 Star Bolt</title>
-				<link>http://localhost:1313/diada.info/page/bolt/</link>
+				<link>http://localhost:1313/page/bolt/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>mn@diada.info (Mikhail Naumov)</author>
-				<guid>http://localhost:1313/diada.info/page/bolt/</guid>
+				<guid>http://localhost:1313/page/bolt/</guid>
 				<description>&lt;p&gt;Японский среднекубатурный круизер по классическим канонам. Воздушный V-twin с четырмя клапанами на каждый цилиндр и по одной свече, верхнеклпанный механизм ГРМ, основная передача ременная. Надежный и простой как угол дома.&lt;/p&gt;&#xA;&lt;p&gt;Мотор жестко вставлен в дуплексную раму, что придает характер этому байку. Центр тяжести очень низкий. Снаряженная масса примерно 300 кг. Весь вес где-то внизу - как только трогаешься, так он пропадает. Очень легкий в маневрировании при околонулевых скоростях.&lt;/p&gt;&#xA;&lt;p&gt;Дополнительно оборудован сисибаром, багажником &amp;ldquo;гриль&amp;rdquo;, экспедиционными канистрами для воды и бензина, небольшим ветровиком, дугами безопасности.&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>Компаньоны</title>
-				<link>http://localhost:1313/diada.info/page/companions/</link>
+				<link>http://localhost:1313/page/companions/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>mn@diada.info (Mikhail Naumov)</author>
-				<guid>http://localhost:1313/diada.info/page/companions/</guid>
+				<guid>http://localhost:1313/page/companions/</guid>
 				<description>&lt;h2 id=&#34;евгений-россия-родной-город-тюмень&#34;&gt;Евгений (Россия, родной город Тюмень)&lt;/h2&gt;&#xA;&lt;div class=&#34;splitbox&#34;&gt;&lt;div class=&#34;left&#34;&gt;&#xA;&lt;p&gt;Катает на японском круезере Kawasaki Vulcan VN 900. Согласился посвятить отпуск мото-трипу из Тюмени до Ташкента и далее вместе со мной до Душанбе. Отличный попутчик и интересный человек со своими жизненными принципами. Глубоко проникся философией мотоциклетного ретрита, вырвался из бытовой суеты и получил гору впечатлений от дальней дороги.&lt;/p&gt;&#xA;&lt;p&gt;Своим ходом приехал в Ташкент из Тюмени и вернулся назад с травмированным плечом после падения на перевалах Таджикистана через &amp;ldquo;дорогу ярости&amp;rdquo; мимо Байконура в Казахстане. Вся дорога заняла примерно 6500 км и по его мнению - это был лучший отпуск в жини.&lt;/p&gt;</description>
 			</item>
 	</channel>

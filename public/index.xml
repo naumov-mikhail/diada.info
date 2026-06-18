@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Блог</title>
-		<link>http://localhost:1313/diada.info/</link>
+		<link>http://localhost:1313/</link>
 		<description>Recent content on Блог</description>
 		<generator>Hugo</generator>
 		<language>en</language>
@@ -14,42 +14,40 @@
 		
 		
 		
-			<lastBuildDate>Mon, 11 May 2026 00:00:00 +0000</lastBuildDate>
-		
-			<atom:link href="http://localhost:1313/diada.info/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>Прострел Ташкент - Душанбе в два куризера</title>
-				<link>http://localhost:1313/diada.info/posts/2026-05-21-tashkent-dushanbe/</link>
+				<link>http://localhost:1313/posts/2026-05-21-tashkent-dushanbe/</link>
 				<pubDate>Mon, 11 May 2026 00:00:00 +0000</pubDate><author>mn@diada.info (Mikhail Naumov)</author>
-				<guid>http://localhost:1313/diada.info/posts/2026-05-21-tashkent-dushanbe/</guid>
-				<description>&lt;h2 id=&#34;маршрут&#34;&gt;Маршрут&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Расстояние: примерно 1000 км&lt;/li&gt;&#xA;&lt;li&gt;Длительность в пути: 4 дня&lt;/li&gt;&#xA;&lt;li&gt;Ночевок в палатке: 1 ночь&lt;/li&gt;&#xA;&lt;li&gt;Погодные условия:&#xA;&lt;ul&gt;&#xA;&lt;li&gt;по трассе: от +5 до +28&lt;/li&gt;&#xA;&lt;li&gt;на перевалах: облачно, мелкий дождь&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;script defer src=&#34;http://localhost:1313/diada.info/js/mermaid.js&#34;&gt;&lt;/script&gt;&#xA;&lt;script defer src=&#34;http://localhost:1313/diada.info/js/mermaid-render.js&#34;&gt;&lt;/script&gt;&#xA;&lt;div class=&#34;mermaid-container&#34; style=&#34;text-align:center&#34;&gt;&lt;div class=&#34;theme-light&#34;&gt;&lt;/div&gt;&#xA;  &lt;div class=&#34;theme-dark&#34;&gt;&lt;/div&gt;&lt;/div&gt;&#xA;&lt;pre class=&#34;mermaid-src&#34; style=&#34;display:none&#34;&gt;&#xA;&#xA;flowchart LR&#xA;  A[Ташкент] --&gt; B&gt;Худжанд] --&gt; C&gt;Кайракум] --&gt; D&gt;Айни] --&gt; E&gt;Заравшан] --&gt; F&gt;Варзоб] --&gt; G&gt;Душанбе]&#xA;  G --обратно тем же маршрутом--&gt; A&#xA;&#xA;&lt;/pre&gt;&#xA;&#xA;&lt;h2 id=&#34;часть-i-едем&#34;&gt;Часть I. Едем!&lt;/h2&gt;&#xA;&lt;p&gt;Люблю утро — раннее утро, когда город ещё спит и улицы пустынны. Трогаемся в одиночестве со стоп-линии одной из главных улиц Ташкента. Уже привычный маршрут — на заправку «Лукойл», где, из‑за наличия нормального бензина октанового числа 95, встречаются все мотоциклисты. В зеркалах заднего вида мелькает люстра от Жениного «Вулкана», слышу приятный бас его выхлопа рядом. Кофе, полные баки, ловим настрой — дорога мне знакома, я совсем недавно вернулся из Душанбе: ездил туда просто проветрить голову и встретить свой день рождения в дороге. Но каждый раз выезд в красивейший Таджикистан меня приподнимает и наполняет изнутри какой‑то детской беспричинной радостью. Особенно в тему звучат слова песни: «…лицемеров не слушай — в заточенье счастья не найти. Нам же надо немного — миновать города. Это наша дорога и сегодня как всегда…»&lt;/p&gt;</description>
+				<guid>http://localhost:1313/posts/2026-05-21-tashkent-dushanbe/</guid>
+				<description>&lt;h2 id=&#34;маршрут&#34;&gt;Маршрут&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Расстояние: примерно 1000 км&lt;/li&gt;&#xA;&lt;li&gt;Длительность в пути: 4 дня&lt;/li&gt;&#xA;&lt;li&gt;Ночевок в палатке: 1 ночь&lt;/li&gt;&#xA;&lt;li&gt;Погодные условия:&#xA;&lt;ul&gt;&#xA;&lt;li&gt;по трассе: от +5 до +28&lt;/li&gt;&#xA;&lt;li&gt;на перевалах: облачно, мелкий дождь&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;script defer src=&#34;http://localhost:1313/js/mermaid.js&#34;&gt;&lt;/script&gt;&#xA;&lt;script defer src=&#34;http://localhost:1313/js/mermaid-render.js&#34;&gt;&lt;/script&gt;&#xA;&lt;div class=&#34;mermaid-container&#34; style=&#34;text-align:center&#34;&gt;&lt;div class=&#34;theme-light&#34;&gt;&lt;/div&gt;&#xA;  &lt;div class=&#34;theme-dark&#34;&gt;&lt;/div&gt;&lt;/div&gt;&#xA;&lt;pre class=&#34;mermaid-src&#34; style=&#34;display:none&#34;&gt;&#xA;&#xA;flowchart LR&#xA;  A[Ташкент] --&gt; B&gt;Худжанд] --&gt; C&gt;Кайракум] --&gt; D&gt;Айни] --&gt; E&gt;Заравшан] --&gt; F&gt;Варзоб] --&gt; G&gt;Душанбе]&#xA;  G --обратно тем же маршрутом--&gt; A&#xA;&#xA;&lt;/pre&gt;&#xA;&#xA;&lt;h2 id=&#34;часть-i-едем&#34;&gt;Часть I. Едем!&lt;/h2&gt;&#xA;&lt;p&gt;Люблю утро — раннее утро, когда город ещё спит и улицы пустынны. Трогаемся в одиночестве со стоп-линии одной из главных улиц Ташкента. Уже привычный маршрут — на заправку «Лукойл», где, из‑за наличия нормального бензина октанового числа 95, встречаются все мотоциклисты. В зеркалах заднего вида мелькает люстра от Жениного «Вулкана», слышу приятный бас его выхлопа рядом. Кофе, полные баки, ловим настрой — дорога мне знакома, я совсем недавно вернулся из Душанбе: ездил туда просто проветрить голову и встретить свой день рождения в дороге. Но каждый раз выезд в красивейший Таджикистан меня приподнимает и наполняет изнутри какой‑то детской беспричинной радостью. Особенно в тему звучат слова песни: «…лицемеров не слушай — в заточенье счастья не найти. Нам же надо немного — миновать города. Это наша дорога и сегодня как всегда…»&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>Прострел Тюмень - Ташанта в одного</title>
-				<link>http://localhost:1313/diada.info/posts/2022-09-10-tyumen-altay/</link>
+				<link>http://localhost:1313/posts/2022-09-10-tyumen-altay/</link>
 				<pubDate>Sat, 10 Sep 2022 00:00:00 +0000</pubDate><author>mn@diada.info (Mikhail Naumov)</author>
-				<guid>http://localhost:1313/diada.info/posts/2022-09-10-tyumen-altay/</guid>
-				<description>&lt;h2 id=&#34;маршрут&#34;&gt;Маршрут&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Расстояние: примерно 5000 км&lt;/li&gt;&#xA;&lt;li&gt;Длительность в пути: 8 дней&lt;/li&gt;&#xA;&lt;li&gt;Ночевок в палатке: 2 ночи&lt;/li&gt;&#xA;&lt;li&gt;Погодные условия:&#xA;&lt;ul&gt;&#xA;&lt;li&gt;по трассе: от -2 до + 24&lt;/li&gt;&#xA;&lt;li&gt;на перевалах: около нуля + мокрый снег&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;script defer src=&#34;http://localhost:1313/diada.info/js/mermaid.js&#34;&gt;&lt;/script&gt;&#xA;&lt;script defer src=&#34;http://localhost:1313/diada.info/js/mermaid-render.js&#34;&gt;&lt;/script&gt;&#xA;&lt;div class=&#34;mermaid-container&#34; style=&#34;text-align:center&#34;&gt;&lt;div class=&#34;theme-light&#34;&gt;&lt;/div&gt;&#xA;  &lt;div class=&#34;theme-dark&#34;&gt;&lt;/div&gt;&lt;/div&gt;&#xA;&lt;pre class=&#34;mermaid-src&#34; style=&#34;display:none&#34;&gt;&#xA;&#xA;flowchart LR&#xA;  A[Тюмень] --&gt; B&gt;Омск] --&gt; C&gt;Новосибирск] --&gt; D&gt;Барнаул] --&gt;E&gt;Манжерок] --&gt; F&gt;Акташ] --&gt;G&gt;Ташанта]&#xA;  G --обратно тем же маршрутом--&gt; A&#xA;&#xA;&lt;/pre&gt;&#xA;&#xA;&lt;h2 id=&#34;часть-i-идейная-мыслительная-подготовительная&#34;&gt;Часть I. Идейная, мыслительная, подготовительная&lt;/h2&gt;&#xA;&lt;p&gt;Мысль сгонять на Алтай появилась ещё в зимний сезон. Я неспешно читал об этих местах, интересовался какими-то подробностями у людей, которые там бывали. Мой друг и партнер по бизнесу Дима сам родом из этих мест и почти каждый год там бывает. Все говорили примерно одно и тоже – там круто и Чуйский тракт безумно красив.&lt;/p&gt;</description>
+				<guid>http://localhost:1313/posts/2022-09-10-tyumen-altay/</guid>
+				<description>&lt;h2 id=&#34;маршрут&#34;&gt;Маршрут&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Расстояние: примерно 5000 км&lt;/li&gt;&#xA;&lt;li&gt;Длительность в пути: 8 дней&lt;/li&gt;&#xA;&lt;li&gt;Ночевок в палатке: 2 ночи&lt;/li&gt;&#xA;&lt;li&gt;Погодные условия:&#xA;&lt;ul&gt;&#xA;&lt;li&gt;по трассе: от -2 до + 24&lt;/li&gt;&#xA;&lt;li&gt;на перевалах: около нуля + мокрый снег&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;script defer src=&#34;http://localhost:1313/js/mermaid.js&#34;&gt;&lt;/script&gt;&#xA;&lt;script defer src=&#34;http://localhost:1313/js/mermaid-render.js&#34;&gt;&lt;/script&gt;&#xA;&lt;div class=&#34;mermaid-container&#34; style=&#34;text-align:center&#34;&gt;&lt;div class=&#34;theme-light&#34;&gt;&lt;/div&gt;&#xA;  &lt;div class=&#34;theme-dark&#34;&gt;&lt;/div&gt;&lt;/div&gt;&#xA;&lt;pre class=&#34;mermaid-src&#34; style=&#34;display:none&#34;&gt;&#xA;&#xA;flowchart LR&#xA;  A[Тюмень] --&gt; B&gt;Омск] --&gt; C&gt;Новосибирск] --&gt; D&gt;Барнаул] --&gt;E&gt;Манжерок] --&gt; F&gt;Акташ] --&gt;G&gt;Ташанта]&#xA;  G --обратно тем же маршрутом--&gt; A&#xA;&#xA;&lt;/pre&gt;&#xA;&#xA;&lt;h2 id=&#34;часть-i-идейная-мыслительная-подготовительная&#34;&gt;Часть I. Идейная, мыслительная, подготовительная&lt;/h2&gt;&#xA;&lt;p&gt;Мысль сгонять на Алтай появилась ещё в зимний сезон. Я неспешно читал об этих местах, интересовался какими-то подробностями у людей, которые там бывали. Мой друг и партнер по бизнесу Дима сам родом из этих мест и почти каждый год там бывает. Все говорили примерно одно и тоже – там круто и Чуйский тракт безумно красив.&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>About</title>
-				<link>http://localhost:1313/diada.info/page/about/</link>
+				<link>http://localhost:1313/page/about/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>mn@diada.info (Mikhail Naumov)</author>
-				<guid>http://localhost:1313/diada.info/page/about/</guid>
+				<guid>http://localhost:1313/page/about/</guid>
 				<description>&lt;p&gt;Я обычный человек - хожу в офис, воспитываю двух детей, обнимаю любимую жену. Но иногда сажусь в седло, завожу мотор и выкатываюсь на встречу приключениям с одним вещевым мешком и хорошим плей-листом в телефоне. У меня своя философия: чем меньше вещей в дороге, тем она больше запомнится и больше эмоций подарит. Этот блог - моя попытка поделиться опытом и заразить духом дорожного бродяги всех неравнодушных и сопричастных.&lt;/p&gt;&#xA;&lt;p&gt;Меня до недавнего времени не было ни в каких социальных сетях, а все свои поездки я описывал только для узкого круга друзей в закрытых telegram-каналах. Но отныне я хочу транслировать этот дорожный блог для всех желающих и надеюсь, что смогу передать этот дорожный дух тебе, читатель.  Если изложенные тут мысли подтолкнуть тебя к своей первой дальней дороге на мотоцикле или в сторону авто-школы - напиши мне, такие отклики будут мотивировать меня писать больше.&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>Yamaha XVS 950 Star Bolt</title>
-				<link>http://localhost:1313/diada.info/page/bolt/</link>
+				<link>http://localhost:1313/page/bolt/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>mn@diada.info (Mikhail Naumov)</author>
-				<guid>http://localhost:1313/diada.info/page/bolt/</guid>
+				<guid>http://localhost:1313/page/bolt/</guid>
 				<description>&lt;p&gt;Японский среднекубатурный круизер по классическим канонам. Воздушный V-twin с четырмя клапанами на каждый цилиндр и по одной свече, верхнеклпанный механизм ГРМ, основная передача ременная. Надежный и простой как угол дома.&lt;/p&gt;&#xA;&lt;p&gt;Мотор жестко вставлен в дуплексную раму, что придает характер этому байку. Центр тяжести очень низкий. Снаряженная масса примерно 300 кг. Весь вес где-то внизу - как только трогаешься, так он пропадает. Очень легкий в маневрировании при околонулевых скоростях.&lt;/p&gt;&#xA;&lt;p&gt;Дополнительно оборудован сисибаром, багажником &amp;ldquo;гриль&amp;rdquo;, экспедиционными канистрами для воды и бензина, небольшим ветровиком, дугами безопасности.&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>Компаньоны</title>
-				<link>http://localhost:1313/diada.info/page/companions/</link>
+				<link>http://localhost:1313/page/companions/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>mn@diada.info (Mikhail Naumov)</author>
-				<guid>http://localhost:1313/diada.info/page/companions/</guid>
+				<guid>http://localhost:1313/page/companions/</guid>
 				<description>&lt;h2 id=&#34;евгений-россия-родной-город-тюмень&#34;&gt;Евгений (Россия, родной город Тюмень)&lt;/h2&gt;&#xA;&lt;div class=&#34;splitbox&#34;&gt;&lt;div class=&#34;left&#34;&gt;&#xA;&lt;p&gt;Катает на японском круезере Kawasaki Vulcan VN 900. Согласился посвятить отпуск мото-трипу из Тюмени до Ташкента и далее вместе со мной до Душанбе. Отличный попутчик и интересный человек со своими жизненными принципами. Глубоко проникся философией мотоциклетного ретрита, вырвался из бытовой суеты и получил гору впечатлений от дальней дороги.&lt;/p&gt;&#xA;&lt;p&gt;Своим ходом приехал в Ташкент из Тюмени и вернулся назад с травмированным плечом после падения на перевалах Таджикистана через &amp;ldquo;дорогу ярости&amp;rdquo; мимо Байконура в Казахстане. Вся дорога заняла примерно 6500 км и по его мнению - это был лучший отпуск в жини.&lt;/p&gt;</description>
 			</item>
 	</channel>
