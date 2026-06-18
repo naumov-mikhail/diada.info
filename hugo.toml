@@ -144,7 +144,7 @@ url = "/index.xml"
     weight = 1
 
 [[menu.main]]
-    name = "Попутчики"
+    name = "Компаньоны"
     url = "page/companions/"
     weight = 1
 
