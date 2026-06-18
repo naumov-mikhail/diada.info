@@ -1,6 +1,11 @@
 baseURL = "http://localhost:1313/"
 title = "Блог"
 theme = "beautifulhugo"
+
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
+
 [Params]
   subtitle = "Прохватил. Преодолел. Перезагрузился."
   mainSections = ["post", "posts"]
