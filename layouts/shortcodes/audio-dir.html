@@ -2,7 +2,7 @@
 {{ $fsdir := printf "static%s" $dir }}
 
 <details class="audio-details">
-<summary>🎧 Раскрыть и послушать ({{ len (readDir $fsdir) }} треков)</summary>
+<summary>[ Раскрыть и послушать ({{ len (readDir $fsdir) }}) треков ]</summary>
 <div class="audio-list">
 
 {{ range readDir $fsdir }}
