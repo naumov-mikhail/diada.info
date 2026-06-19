@@ -26,10 +26,22 @@
     <loc>http://localhost:1313/posts/2026-05-21-tashkent-dushanbe/</loc>
     <lastmod>2026-05-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/altay/</loc>
-    <lastmod>2022-09-10T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/tags/bishkek/</loc>
+    <lastmod>2023-05-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/issik-kul/</loc>
+    <lastmod>2023-05-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/kyrgyzstan/</loc>
+    <lastmod>2023-05-19T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/solo/</loc>
+    <lastmod>2023-05-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/2023-09-19-tyumen-cholpon-ata/</loc>
+    <lastmod>2023-05-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/altay/</loc>
     <lastmod>2022-09-10T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/tyumen/</loc>

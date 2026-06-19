@@ -14,9 +14,16 @@
 		
 		
 		
-			<lastBuildDate>Sat, 10 Sep 2022 00:00:00 +0000</lastBuildDate>
+			<lastBuildDate>Fri, 19 May 2023 00:00:00 +0000</lastBuildDate>
 		
 			<atom:link href="http://localhost:1313/categories/solo/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Перегон Друга из Тюмени до Иссык-Куля</title>
+				<link>http://localhost:1313/posts/2023-09-19-tyumen-cholpon-ata/</link>
+				<pubDate>Fri, 19 May 2023 00:00:00 +0000</pubDate><author>mn@diada.info (Mikhail Naumov)</author>
+				<guid>http://localhost:1313/posts/2023-09-19-tyumen-cholpon-ata/</guid>
+				<description>&lt;h2 id=&#34;маршрут&#34;&gt;Маршрут&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Расстояние: примерно 2500 км&lt;/li&gt;&#xA;&lt;li&gt;Длительность в пути: 4 дня&lt;/li&gt;&#xA;&lt;li&gt;Ночевок в палатке: 1 ночь&lt;/li&gt;&#xA;&lt;li&gt;Погодные условия:&#xA;&lt;ul&gt;&#xA;&lt;li&gt;по трассе: от +15 до +32&lt;/li&gt;&#xA;&lt;li&gt;в ущелье: тепло, мелкий дождь&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;script defer src=&#34;http://localhost:1313/js/mermaid.js&#34;&gt;&lt;/script&gt;&#xA;&lt;script defer src=&#34;http://localhost:1313/js/mermaid-render.js&#34;&gt;&lt;/script&gt;&#xA;&lt;div class=&#34;mermaid-container&#34; style=&#34;text-align:center&#34;&gt;&lt;div class=&#34;theme-light&#34;&gt;&lt;/div&gt;&#xA;  &lt;div class=&#34;theme-dark&#34;&gt;&lt;/div&gt;&lt;/div&gt;&#xA;&lt;pre class=&#34;mermaid-src&#34; style=&#34;display:none&#34;&gt;&#xA;&#xA;flowchart LR&#xA;  A[Тюмень] --&gt; B&gt;Петропавловск] --&gt; C&gt;Бурабай] --&gt; D&gt;Астана] --&gt; E&gt;Шу] --&gt; F&gt;Бишкек] --&gt; G[Чолпон-Ата]&#xA;&#xA;&lt;/pre&gt;&#xA;&#xA;&lt;h2 id=&#34;часть-1-сборы-и-выезд-в-казахстан&#34;&gt;Часть 1. Сборы и выезд в Казахстан&lt;/h2&gt;&#xA;&lt;p&gt;В конце мая 2023 г. я собрался перегнать своим ходом мотоцикл из Тюмени до временного места жительства в Кыргызстане — на озеро Иссык-Куль, в городок Чолпон-Ата. Отсутствие моего железного друга на берегу этого красивейшего озера в этой красивейшей горной стране меня сильно тяготило. Спасался тем, что перечитывал дорожные дневники Криса Скотта в «Книге искателей приключений» и открывал для себя Роберта Фултона и его чудесную «One Man Caravan».&lt;/p&gt;</description>
+			</item>
 			<item>
 				<title>Прострел Тюмень - Ташанта в одного</title>
 				<link>http://localhost:1313/posts/2022-09-10-tyumen-altay/</link>
