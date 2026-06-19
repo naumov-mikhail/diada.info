@@ -1,0 +1,44 @@
+{{ $dir := .Get "dir" }}
+{{ $fsdir := printf "static%s" $dir }}
+
+<details class="audio-details">
+<summary>🎧 Раскрыть и послушать ({{ len (readDir $fsdir) }} треков)</summary>
+<div class="audio-list">
+
+{{ range readDir $fsdir }}
+
+  {{ if strings.HasSuffix .Name ".mp3" }}
+
+    {{ $basename := strings.TrimSuffix ".mp3" .Name }}
+    {{ $parts := split $basename "--" }}
+
+    {{ $artist := "" }}
+    {{ $title := $basename }}
+
+    {{ if ge (len $parts) 2 }}
+      {{ $artist = index $parts 0 }}
+      {{ $title = delimit (after 1 $parts) "--" }}
+    {{ end }}
+
+    <div class="audio-item">
+
+      <div class="audio-caption">
+        {{ with $artist }}
+          <strong>{{ . }}</strong> —
+        {{ end }}
+        {{ $title }}
+      </div>
+
+      <audio playsinline controls preload="metadata">
+        <source src="{{ printf "%s/%s" $dir .Name | relURL }}" type="audio/mpeg">
+      </audio>
+
+    </div>
+
+  {{ end }}
+
+{{ end }}
+
+</div>
+
+</details>

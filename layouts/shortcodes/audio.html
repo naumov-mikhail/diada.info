@@ -1,0 +1,9 @@
+<div class="audio-player">
+  <audio controls preload="{{ .Get "preload" | default "metadata" }}">
+    <source src="{{ .Get "src" | relURL }}" type="audio/mpeg">
+  </audio>
+
+  {{ with .Get "caption" }}
+    <div class="audio-caption">{{ . }}</div>
+  {{ end }}
+</div>
