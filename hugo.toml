@@ -10,7 +10,7 @@ theme = "beautifulhugo"
 [Params]
   subtitle = "Прохватил. Преодолел. Перезагрузился."
   mainSections = ["post", "posts"]
-  since = "2026"
+  since = "2020"
 #  logo = "/img/avatar-icon.png"
   favicon = "/img/favicon.ico"
   dateFormat = "January 2, 2006"
