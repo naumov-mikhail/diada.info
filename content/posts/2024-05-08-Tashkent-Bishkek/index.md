@@ -3,7 +3,7 @@ title: "Прострел Ташкент - Бишкек через Токтогу
 subtitle: "Проскочил через границу Узбекистан-Кыргызстан минуя Казахстан. Удивительной красоты горная дорога."
 image: /images/2024-05-08-Tashkent-Bishkek-Cover.jpg
 date: 2024-05-08
-draft: true
+draft: false
 categories: ["Solo"]
 tags: ["Toshkent", "Bishkek", "Kyrgyzstan"]
 type: post
